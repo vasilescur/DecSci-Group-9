@@ -1,0 +1,240 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Classes (Long),Satisfy Classes Long_NPS_GROUP,Satisfy Classes Long,Classes (short),Satisfy class short_NPS_GROUP,Satisfy class short,Meal Plan (short),Satisfy meal short_NPS_GROUP,Satisfy meal short,Meal Plan (Long),Satisfy meal long_NPS_GROUP,Satisfy meal long,Demographic
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,You are required to take one intro level seminar for your next semester. Pick a class that you want to take (you are limited to the below):,How confident are you that you made the best choice for you? - Group,How confident are you that you made the best choice for you?,You are required to take one intro level seminar for your next semester. Pick a class that you want to take (you are limited to the below):,How confident are you that you made the best choice for you? - Group,How confident are you that you made the best choice for you?,You are required to select a meal plan for the coming year at a new school. Pick a meal plan (money does not roll over):,How confident are you that you made the best choice for you? - Group,How confident are you that you made the best choice for you?,You are required to select a meal plan for the coming year at a new school. Pick a meal plan (money does not roll over):,How confident are you that you made the best choice for you? - Group,How confident are you that you made the best choice for you?,What is your gender?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID7""}","{""ImportId"":""QID3_NPS_GROUP""}","{""ImportId"":""QID3""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6_NPS_GROUP""}","{""ImportId"":""QID6""}","{""ImportId"":""QID2""}","{""ImportId"":""QID4_NPS_GROUP""}","{""ImportId"":""QID4""}","{""ImportId"":""QID1""}","{""ImportId"":""QID8_NPS_GROUP""}","{""ImportId"":""QID8""}","{""ImportId"":""QID10""}"
+10/24/18 16:26,10/24/18 16:26,IP Address,152.3.43.21,100,17,TRUE,10/24/18 16:26,R_1Ej9kb1CyBmgMV6,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,7,,,,,,,Female
+10/24/18 16:26,10/24/18 16:26,IP Address,45.37.176.57,100,18,TRUE,10/24/18 16:26,R_2zPlzLXX0lzCuQy,,,,,35.97810364,-78.84390259,anonymous,EN,,,,,,,$25 per day ($2450),Passive,7,,,,Female
+10/24/18 16:27,10/24/18 16:27,IP Address,152.3.43.20,100,26,TRUE,10/24/18 16:27,R_3qmQt5wdy7f6bsR,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,6,,,,,,,Female
+10/24/18 16:27,10/24/18 16:28,IP Address,152.3.43.20,100,34,TRUE,10/24/18 16:28,R_3kgIqMilYQPJSRE,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Promoter,10,,,,,,,,,,Male
+10/24/18 16:26,10/24/18 16:29,IP Address,152.3.43.20,100,124,TRUE,10/24/18 16:29,R_3inlST14WH5oBV0,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Male
+10/24/18 16:29,10/24/18 16:30,IP Address,152.3.43.36,100,38,TRUE,10/24/18 16:30,R_DCah23EzFwo5Reh,,,,,35.9967041,-78.89659882,anonymous,EN,Public Speaking,Detractor,0,,,,,,,,,,Prefer not to identify
+10/24/18 16:33,10/24/18 16:34,Spam,152.3.43.20,100,23,TRUE,10/24/18 16:34,R_3R3kkr1ufTY9qRW,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Male
+10/24/18 16:35,10/24/18 16:36,IP Address,188.74.64.244,100,42,TRUE,10/24/18 16:36,R_11iLATtOidtc2sQ,,,,,55.94889832,-3.163192749,anonymous,EN,,,,,,,,,,$27 per day ($2646),Detractor,6,Female
+10/24/18 16:38,10/24/18 16:39,IP Address,198.86.29.23,100,47,TRUE,10/24/18 16:39,R_1Ed701Dn2Y0Vd1G,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$19 per day ($1862),Passive,8,Female
+10/24/18 16:41,10/24/18 16:42,IP Address,198.86.29.23,100,24,TRUE,10/24/18 16:42,R_3Jqnp6ZwpshLN4L,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Detractor,3,,,,Female
+10/24/18 16:43,10/24/18 16:43,IP Address,152.3.43.23,100,35,TRUE,10/24/18 16:43,R_1RDJ0JsYUkh12jT,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Passive,8,,,,,,,,,,Female
+10/24/18 16:43,10/24/18 16:44,IP Address,198.86.29.23,100,35,TRUE,10/24/18 16:44,R_9WTBnqyUZ1dZHDX,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,3,,,,,,,Female
+10/24/18 16:44,10/24/18 16:45,IP Address,198.86.29.24,100,13,TRUE,10/24/18 16:45,R_3RefUAUOu2XPaZ5,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,5,,,,Female
+10/24/18 16:47,10/24/18 16:47,IP Address,198.86.29.23,100,21,TRUE,10/24/18 16:47,R_qL3P6LcLYN4BEOJ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,7,,,,,,,Female
+10/24/18 16:47,10/24/18 16:47,IP Address,85.56.90.57,100,33,TRUE,10/24/18 16:47,R_5bCDk0UBgOQoo13,,,,,40.41650391,-3.702606201,anonymous,EN,,,,,,,,,,$19 per day ($1862),Passive,7,Female
+10/24/18 16:58,10/24/18 16:59,IP Address,174.109.118.153,100,22,TRUE,10/24/18 16:59,R_T18WO0zpkQEN4CB,,,,,36.02180481,-78.94779968,anonymous,EN,,,,,,,$15 per day ($1470),Promoter,9,,,,Male
+10/24/18 17:03,10/24/18 17:04,IP Address,107.77.236.42,100,24,TRUE,10/24/18 17:04,R_3RvKwN09CL6hsyY,,,,,33.74899292,-84.38800049,anonymous,EN,"Money, Sex, and Power ",Detractor,3,,,,,,,,,,Female
+10/24/18 17:06,10/24/18 17:06,IP Address,75.26.9.105,100,23,TRUE,10/24/18 17:06,R_2R21WMUiUVM12Ly,,,,,35.8480072,-78.63169861,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/24/18 17:33,10/24/18 17:33,IP Address,152.3.43.20,100,38,TRUE,10/24/18 17:33,R_z0tbYapOl3TuOWJ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$15 per day ($1470),Passive,7,Female
+10/24/18 17:52,10/24/18 17:59,IP Address,152.3.43.23,100,413,TRUE,10/24/18 17:59,R_278s6a2eFMSN9Ml,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Detractor,4,Male
+10/24/18 18:12,10/24/18 18:12,IP Address,152.3.43.6,100,23,TRUE,10/24/18 18:12,R_0d0Ko8mfSRXFxxn,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Shamanism in Society,Passive,7,,,,,,,Female
+10/24/18 18:14,10/24/18 18:14,IP Address,152.3.43.23,100,43,TRUE,10/24/18 18:14,R_1oce7t0GUFOIUX6,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,9,,,,Male
+10/24/18 18:17,10/24/18 18:17,IP Address,198.86.29.23,100,15,TRUE,10/24/18 18:17,R_3fdTVl79Dn3RTGO,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Female
+10/24/18 18:19,10/24/18 18:21,IP Address,152.3.43.23,100,96,TRUE,10/24/18 18:21,R_1rJnRflR8ESBnpF,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Female
+10/24/18 18:21,10/24/18 18:22,IP Address,152.3.43.23,100,89,TRUE,10/24/18 18:22,R_2rZMkj6J3WQSfv6,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Passive,8,,,,,,,,,,Female
+10/24/18 18:30,10/24/18 18:31,IP Address,152.3.43.28,100,23,TRUE,10/24/18 18:31,R_3ey2EFE0ltKTYnP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$15 per day ($1470),Promoter,9,Female
+10/24/18 18:36,10/24/18 18:36,IP Address,152.3.43.21,100,16,TRUE,10/24/18 18:36,R_1CwRgy5tMNtaOWI,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Shamanism in Society,Promoter,10,,,,,,,Female
+10/24/18 18:47,10/24/18 18:48,IP Address,198.86.29.24,100,44,TRUE,10/24/18 18:48,R_3Mg0B7OttGvuuah,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,5,Female
+10/24/18 18:50,10/24/18 18:51,IP Address,152.3.43.28,100,35,TRUE,10/24/18 18:51,R_DzZhpAwXO8O2PTP,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Detractor,5,,,,,,,,,,Female
+10/24/18 19:24,10/24/18 19:25,IP Address,152.3.43.20,100,21,TRUE,10/24/18 19:25,R_pzaNvfmwhoKKgTv,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Detractor,4,,,,Male
+10/24/18 19:29,10/24/18 19:29,IP Address,129.78.56.194,100,30,TRUE,10/24/18 19:29,R_33g4SiUbDoYTTxF,,,,,-33.86120605,151.1982117,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Male
+10/24/18 19:37,10/24/18 19:38,IP Address,152.3.43.20,100,62,TRUE,10/24/18 19:38,R_3rahrPCXzdnxCYV,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,6,Female
+10/24/18 19:39,10/24/18 19:40,IP Address,152.3.43.2,100,15,TRUE,10/24/18 19:40,R_2YKZLCcb6iJr7s2,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,7,,,,,,,Female
+10/24/18 19:45,10/24/18 19:46,IP Address,152.3.43.24,100,53,TRUE,10/24/18 19:46,R_2dFqPnJreTgCyqZ,,,,,35.9967041,-78.89659882,anonymous,EN,Asian Americans in Higher Education,Detractor,6,,,,,,,,,,Male
+10/24/18 19:52,10/24/18 19:52,IP Address,198.86.29.23,100,24,TRUE,10/24/18 19:52,R_239NxjWGTKnQVs9,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,5,,,,,,,Female
+10/24/18 19:56,10/24/18 19:56,IP Address,152.3.43.3,100,28,TRUE,10/24/18 19:56,R_oZhYXzO2aX6YNoJ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,6,Female
+10/24/18 19:57,10/24/18 19:57,IP Address,152.3.43.2,100,18,TRUE,10/24/18 19:57,R_W7EsppWwMohQLOp,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Female
+10/24/18 19:58,10/24/18 19:58,IP Address,198.86.29.23,100,19,TRUE,10/24/18 19:58,R_12zityCJXlyZZ0B,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Passive,7,,,,,,,,,,Male
+10/24/18 20:03,10/24/18 20:03,IP Address,174.194.28.45,100,20,TRUE,10/24/18 20:03,R_DdY4vlqOMkEqHiF,,,,,35.0552063,-80.81950378,anonymous,EN,,,,,,,$35 per day ($3430),Promoter,10,,,,Female
+10/24/18 20:09,10/24/18 20:09,IP Address,152.3.43.3,100,21,TRUE,10/24/18 20:09,R_1nOdBkT2dwjuMHC,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,7,,,,,,,Female
+10/24/18 20:13,10/24/18 20:13,IP Address,198.86.29.23,100,38,TRUE,10/24/18 20:13,R_wWWbdaXqCFA0WZj,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$23 per day ($2254),Passive,7,Male
+10/24/18 20:15,10/24/18 20:16,IP Address,198.86.29.23,100,40,TRUE,10/24/18 20:16,R_1i427KJMkYbKN55,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$23 per day ($2254),Promoter,10,Female
+10/24/18 20:17,10/24/18 20:17,IP Address,152.3.43.20,100,23,TRUE,10/24/18 20:17,R_aYqpVQYjplaKMX7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Female
+10/24/18 20:25,10/24/18 20:25,IP Address,152.3.43.20,100,49,TRUE,10/24/18 20:25,R_3hhfvsW97pczrav,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Detractor,5,,,,,,,,,,Female
+10/24/18 20:27,10/24/18 20:27,IP Address,152.3.43.36,100,20,TRUE,10/24/18 20:27,R_27j20dlEQfnwlsQ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,5,,,,,,,Female
+10/24/18 20:28,10/24/18 20:29,IP Address,107.77.237.54,100,35,TRUE,10/24/18 20:29,R_1nNRKRLtCzVcY0V,,,,,37.75100708,-97.8219986,anonymous,EN,,,,,,,$35 per day ($3430),Passive,7,,,,Male
+10/24/18 20:37,10/24/18 20:43,IP Address,152.3.43.6,100,355,TRUE,10/24/18 20:43,R_eXl7vuBWo1QBctP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$29 per day ($2842),Detractor,4,Male
+10/24/18 20:45,10/24/18 20:46,IP Address,38.100.26.200,100,23,TRUE,10/24/18 20:46,R_3EEBL9e0k7cAEzD,,,,,38.91220093,-77.0177002,anonymous,EN,,,,Public Speaking,Passive,7,,,,,,,Male
+10/24/18 20:48,10/24/18 20:49,IP Address,198.86.29.23,100,25,TRUE,10/24/18 20:49,R_3kHT5Him24o8EwM,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Passive,7,,,,,,,,,,Female
+10/24/18 20:52,10/24/18 20:54,IP Address,152.3.43.36,100,76,TRUE,10/24/18 20:54,R_3ndg5433z1nOe2Z,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Passive,7,Male
+10/24/18 20:55,10/24/18 20:55,IP Address,75.182.89.190,100,24,TRUE,10/24/18 20:55,R_1LnXEuU1NTSVjK0,,,,,36.03829956,-78.87640381,anonymous,EN,Artificial Intelligence,Passive,8,,,,,,,,,,Female
+10/24/18 20:56,10/24/18 20:57,IP Address,152.3.43.21,100,13,TRUE,10/24/18 20:57,R_1Ngjbamr4MjstZw,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Male
+10/24/18 20:59,10/24/18 20:59,IP Address,152.3.43.21,100,19,TRUE,10/24/18 20:59,R_3NQfgHgJAvA7hFD,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,10,,,,Female
+10/24/18 21:06,10/24/18 21:07,IP Address,152.3.43.3,100,72,TRUE,10/24/18 21:07,R_2TLDB1MzyILf85L,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,2,,,,,,,,,,Male
+10/24/18 21:19,10/24/18 21:20,IP Address,107.77.236.68,100,30,TRUE,10/24/18 21:20,R_3PdfzqA9jB1yqQn,,,,,33.74899292,-84.38800049,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/24/18 21:38,10/24/18 21:38,IP Address,107.77.232.8,100,41,TRUE,10/24/18 21:38,R_2dEMbfWsgLKsd2V,,,,,37.75100708,-97.8219986,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,6,Prefer not to identify
+10/24/18 21:38,10/24/18 21:39,IP Address,152.3.43.20,100,46,TRUE,10/24/18 21:39,R_efFTkIvuIShtajT,,,,,35.9967041,-78.89659882,anonymous,EN,Public Speaking,Passive,7,,,,,,,,,,Female
+10/24/18 22:02,10/24/18 22:03,IP Address,152.3.43.28,100,25,TRUE,10/24/18 22:03,R_2tndwTOXzi54nG7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Female
+10/24/18 22:11,10/24/18 22:11,IP Address,152.3.43.3,100,14,TRUE,10/24/18 22:11,R_1N86EB93qCIizZT,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Female
+10/24/18 19:30,10/24/18 22:37,IP Address,152.3.43.3,100,11224,TRUE,10/24/18 22:37,R_3kjJJGS8OeeVNk1,,,,,35.9967041,-78.89659882,anonymous,EN,History of Biological Warfare,Detractor,5,,,,,,,,,,Male
+10/24/18 22:51,10/24/18 22:51,IP Address,198.86.29.24,100,28,TRUE,10/24/18 22:51,R_2vYpgH5nAlN9jXm,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$17 per day ($1666),Passive,7,Male
+10/24/18 22:53,10/24/18 22:53,IP Address,152.3.43.36,100,14,TRUE,10/24/18 22:53,R_11hfV8L0prsROs5,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Promoter,10,,,,Female
+10/24/18 22:53,10/24/18 22:54,IP Address,152.3.43.23,100,24,TRUE,10/24/18 22:54,R_2QWGMlcc6RBNtFN,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Female
+10/24/18 22:54,10/24/18 22:55,IP Address,152.3.43.3,100,22,TRUE,10/24/18 22:55,R_3erFJcxkBwjcdiv,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$27 per day ($2646),Detractor,5,Female
+10/24/18 22:54,10/24/18 22:55,IP Address,107.77.233.24,100,31,TRUE,10/24/18 22:55,R_21zjYwxb45LKXmM,,,,,33.52070618,-86.80249786,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/24/18 22:54,10/24/18 22:55,IP Address,152.3.43.2,100,27,TRUE,10/24/18 22:55,R_exP3a8HbRibAHjb,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,3,,,,,,,Male
+10/24/18 22:54,10/24/18 22:55,IP Address,152.3.43.20,100,22,TRUE,10/24/18 22:55,R_1mgCY3l6SjawrPV,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Passive,8,,,,,,,,,,Female
+10/24/18 22:54,10/24/18 22:55,IP Address,152.3.43.23,100,41,TRUE,10/24/18 22:55,R_2CCcdfTcYMVV5Wx,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Male
+10/24/18 22:55,10/24/18 22:56,IP Address,198.86.29.23,100,21,TRUE,10/24/18 22:56,R_2c6eQwpGzTH4Wmj,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Promoter,10,,,,Male
+10/24/18 22:55,10/24/18 22:56,IP Address,152.3.43.2,100,27,TRUE,10/24/18 22:56,R_3qUbko0nv2Zntyg,,,,,35.9967041,-78.89659882,anonymous,EN,Women at Work,Passive,7,,,,,,,,,,Female
+10/24/18 22:57,10/24/18 22:57,IP Address,174.194.1.6,100,19,TRUE,10/24/18 22:57,R_2Cf6zHLx5vJ7pp7,,,,,35.37159729,-80.52999878,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Male
+10/24/18 22:55,10/24/18 22:57,IP Address,107.77.235.197,100,94,TRUE,10/24/18 22:57,R_3PFbyGC7QZsh8GF,,,,,33.74899292,-84.38800049,anonymous,EN,AIDS and Emerging Diseases,Detractor,6,,,,,,,,,,Female
+10/24/18 22:57,10/24/18 22:57,IP Address,152.3.43.21,100,26,TRUE,10/24/18 22:57,R_1gnIgVUsHAnRHBd,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Passive,7,,,,Female
+10/24/18 22:58,10/24/18 22:58,IP Address,152.3.43.6,100,20,TRUE,10/24/18 22:58,R_3NDGyeeZ95njWtY,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,4,Male
+10/24/18 22:58,10/24/18 22:58,IP Address,107.77.235.167,100,16,TRUE,10/24/18 22:58,R_RJLZxpkWNawLGWB,,,,,33.74899292,-84.38800049,anonymous,EN,"Money, Sex, and Power ",Passive,7,,,,,,,,,,Female
+10/24/18 23:00,10/24/18 23:00,IP Address,174.194.10.163,100,15,TRUE,10/24/18 23:00,R_28ZgJIm8K50o2Pb,,,,,34.96809387,-81.04889679,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/24/18 23:01,10/24/18 23:01,IP Address,152.3.43.2,100,47,TRUE,10/24/18 23:01,R_1luZJWfpfmRsw9x,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,6,Female
+10/24/18 23:02,10/24/18 23:03,IP Address,198.86.29.23,100,20,TRUE,10/24/18 23:03,R_2XdJp4pa0hpW3oO,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,9,,,,Male
+10/24/18 23:03,10/24/18 23:03,IP Address,152.3.43.6,100,39,TRUE,10/24/18 23:03,R_3Mxjrx393CClGwn,,,,,35.9967041,-78.89659882,anonymous,EN,Women at Work,Passive,8,,,,,,,,,,Female
+10/24/18 23:03,10/24/18 23:03,IP Address,24.130.254.164,100,24,TRUE,10/24/18 23:03,R_2WYn7Zq6zrIUUIG,,,,,37.79570007,-122.2429047,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,3,,,,Female
+10/24/18 23:07,10/24/18 23:07,IP Address,174.193.131.144,100,12,TRUE,10/24/18 23:07,R_2rBMTyezwu2Zk5V,,,,,35.19360352,-80.68460083,anonymous,EN,,,,Public Speaking,Passive,7,,,,,,,Female
+10/24/18 23:07,10/24/18 23:07,IP Address,198.86.29.23,100,38,TRUE,10/24/18 23:07,R_rqhWNyMCNyngsNz,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,6,Female
+10/24/18 23:09,10/24/18 23:09,IP Address,174.193.159.121,100,21,TRUE,10/24/18 23:09,R_1msEnL9KCtT9H4A,,,,,35.13160706,-80.85769653,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Male
+10/24/18 23:10,10/24/18 23:11,IP Address,152.3.43.2,100,25,TRUE,10/24/18 23:11,R_1dFxRIRs17FHNUt,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,3,Female
+10/24/18 23:23,10/24/18 23:24,IP Address,152.3.43.21,100,43,TRUE,10/24/18 23:24,R_2zUU5C2WKS5Tv6k,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,3,,,,,,,,,,Male
+10/24/18 23:24,10/24/18 23:24,IP Address,152.3.43.28,100,29,TRUE,10/24/18 23:24,R_3GcBi2fu9kIgK3Q,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
+10/24/18 23:29,10/24/18 23:29,IP Address,152.3.43.3,100,28,TRUE,10/24/18 23:29,R_xmfTtKWivGV1Wmt,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Male
+10/24/18 23:56,10/24/18 23:56,IP Address,174.109.120.126,100,34,TRUE,10/24/18 23:56,R_3EancOT7I66Bnt2,,,,,36.02180481,-78.94779968,anonymous,EN,,,,,,,$15 per day ($1470),Promoter,9,,,,Female
+10/24/18 23:57,10/24/18 23:58,IP Address,64.64.108.99,100,35,TRUE,10/24/18 23:58,R_2ZBKiwAumPkIZU1,,,,,35.68499756,139.7514038,anonymous,EN,The Politics of Nuclear Energy,Passive,7,,,,,,,,,,Female
+10/25/18 0:01,10/25/18 0:02,IP Address,80.12.38.92,100,21,TRUE,10/25/18 0:02,R_2cj8kfmsMlWjyoo,,,,,48.86279297,2.329193115,anonymous,EN,,,,,,,,,,$29 per day ($2842),Detractor,6,Female
+10/25/18 0:08,10/25/18 0:08,IP Address,152.3.43.21,100,18,TRUE,10/25/18 0:08,R_1ozHAxwhxRvyjbQ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Promoter,10,,,,Female
+10/25/18 0:49,10/25/18 0:49,IP Address,152.3.43.2,100,31,TRUE,10/25/18 0:49,R_3hszWM2yTFtpGaR,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,6,,,,,,,,,,Female
+10/25/18 0:51,10/25/18 0:52,IP Address,152.3.43.20,100,16,TRUE,10/25/18 0:52,R_ahsuuvFt61gu2id,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Female
+10/25/18 1:08,10/25/18 1:08,IP Address,152.3.43.2,100,15,TRUE,10/25/18 1:08,R_1GGOBXeL66STpJL,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Promoter,10,Female
+10/25/18 2:12,10/25/18 2:13,IP Address,62.243.161.59,100,18,TRUE,10/25/18 2:13,R_3m4g5engeaprX10,,,,,55.66670227,12.58329773,anonymous,EN,,,,History of Biological Warfare,Detractor,5,,,,,,,Female
+10/25/18 2:19,10/25/18 2:20,IP Address,45.37.67.137,100,30,TRUE,10/25/18 2:20,R_3s79SCJlwDT4aVY,,,,,35.91119385,-78.9178009,anonymous,EN,"Money, Sex, and Power ",Passive,7,,,,,,,,,,Male
+10/25/18 4:21,10/25/18 4:22,IP Address,193.169.154.232,100,21,TRUE,10/25/18 4:22,R_2uQXsfxO7T0mVPv,,,,,55.66670227,12.58329773,anonymous,EN,,,,,,,,,,$17 per day ($1666),Detractor,5,Female
+10/25/18 4:32,10/25/18 4:33,IP Address,152.3.43.2,100,28,TRUE,10/25/18 4:33,R_xllxCAxSRt1YtS9,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Passive,7,,,,,,,,,,Female
+10/25/18 4:41,10/25/18 4:41,IP Address,152.3.43.3,100,15,TRUE,10/25/18 4:41,R_10CWk9x4vjpyoaI,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Female
+10/25/18 5:01,10/25/18 5:01,IP Address,152.3.43.2,100,29,TRUE,10/25/18 5:01,R_DUFdWGVCFbsrnhv,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$15 per day ($1470),Promoter,9,Female
+10/25/18 5:52,10/25/18 5:53,IP Address,152.3.43.28,100,33,TRUE,10/25/18 5:53,R_eJ15kmjDeI2bWlr,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Female
+10/25/18 6:00,10/25/18 6:00,IP Address,198.86.29.23,100,20,TRUE,10/25/18 6:00,R_22nXzdaO9i0e7hu,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,4,,,,Male
+10/25/18 6:19,10/25/18 6:19,IP Address,198.86.29.23,100,18,TRUE,10/25/18 6:19,R_3QSOEKV8V7rG0RN,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Passive,7,Female
+10/25/18 6:19,10/25/18 6:20,IP Address,107.77.233.213,100,35,TRUE,10/25/18 6:20,R_1H0NghLs5WwMkgU,,,,,33.52070618,-86.80249786,anonymous,EN,Women at Work,Passive,8,,,,,,,,,,Female
+10/25/18 6:25,10/25/18 6:25,IP Address,107.77.234.116,100,14,TRUE,10/25/18 6:25,R_1q9EdjF9fdu0ZAE,,,,,33.74899292,-84.38800049,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Female
+10/25/18 6:42,10/25/18 6:42,IP Address,152.3.43.2,100,22,TRUE,10/25/18 6:42,R_2trhhmd1sxMRU85,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Promoter,10,Female
+10/25/18 6:51,10/25/18 6:52,IP Address,152.3.43.23,100,26,TRUE,10/25/18 6:52,R_vB3PAs1uotbCEN3,,,,,35.9967041,-78.89659882,anonymous,EN,Asian Americans in Higher Education,Detractor,5,,,,,,,,,,Female
+10/25/18 6:52,10/25/18 6:53,IP Address,152.3.43.2,100,14,TRUE,10/25/18 6:53,R_12MDy1Ii20FL3Y7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,6,,,,,,,Female
+10/25/18 7:00,10/25/18 7:00,IP Address,152.3.43.3,100,26,TRUE,10/25/18 7:00,R_1hDW1MDlrabohzp,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,5,,,,Female
+10/25/18 7:01,10/25/18 7:02,IP Address,152.3.43.28,100,28,TRUE,10/25/18 7:02,R_20M4h3FfYXoAQwH,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Promoter,10,Female
+10/25/18 7:01,10/25/18 7:02,IP Address,152.3.43.21,100,26,TRUE,10/25/18 7:02,R_AbsXjXq1qrOFBuh,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,4,,,,Male
+10/25/18 7:14,10/25/18 7:15,IP Address,12.21.241.250,100,23,TRUE,10/25/18 7:15,R_2Yogr21xyXBqTSH,,,,,35.22709656,-80.8431015,anonymous,EN,Artificial Intelligence,Promoter,9,,,,,,,,,,Female
+10/25/18 7:18,10/25/18 7:18,IP Address,152.3.43.2,100,20,TRUE,10/25/18 7:18,R_NWKE4654pC5jPup,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Female
+10/25/18 7:18,10/25/18 7:19,IP Address,85.56.89.178,100,33,TRUE,10/25/18 7:19,R_3DhE0enQRRK1z8K,,,,,40.41650391,-3.702606201,anonymous,EN,,,,,,,$15 per day ($1470),Detractor,6,,,,Female
+10/25/18 7:20,10/25/18 7:20,IP Address,174.109.98.167,100,20,TRUE,10/25/18 7:20,R_22nNRlzVmZ1Zpdo,,,,,36.02180481,-78.94779968,anonymous,EN,,,,Public Speaking,Detractor,4,,,,,,,Prefer not to identify
+10/25/18 7:22,10/25/18 7:22,IP Address,152.3.43.3,100,21,TRUE,10/25/18 7:22,R_3ponC4XIwewRYTD,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Detractor,5,,,,,,,,,,Male
+10/25/18 7:33,10/25/18 7:33,IP Address,152.3.43.18,100,21,TRUE,10/25/18 7:33,R_1K6Ayil5Eh7Z3GQ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$29 per day ($2842),Passive,8,Male
+10/25/18 8:22,10/25/18 8:23,IP Address,152.3.43.20,100,19,TRUE,10/25/18 8:23,R_ABwT0VdV6MWEhIl,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Male
+10/25/18 8:42,10/25/18 8:42,IP Address,152.3.43.23,100,46,TRUE,10/25/18 8:42,R_QfT5rvn1P7mN4cN,,,,,35.9967041,-78.89659882,anonymous,EN,Asian Americans in Higher Education,Detractor,4,,,,,,,,,,Female
+10/25/18 9:10,10/25/18 9:10,IP Address,152.3.43.20,100,30,TRUE,10/25/18 9:10,R_bypbEDGMsEXjAvT,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Passive,8,Female
+10/25/18 9:20,10/25/18 9:20,IP Address,152.3.43.6,100,14,TRUE,10/25/18 9:20,R_3HuGZ5vBBeBbqas,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,7,,,,Male
+10/25/18 9:28,10/25/18 9:29,IP Address,152.3.43.21,100,20,TRUE,10/25/18 9:29,R_p62KC4k7rseeRP3,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Male
+10/25/18 9:41,10/25/18 9:41,IP Address,99.203.20.213,100,27,TRUE,10/25/18 9:41,R_2ZQ8GT1c5b2ds69,,,,,35.95570374,-80.00530243,anonymous,EN,,,,,,,,,,$15 per day ($1470),Detractor,6,Male
+10/25/18 9:55,10/25/18 9:56,IP Address,107.15.245.62,100,52,TRUE,10/25/18 9:56,R_1KlQb0sxCs69mFz,,,,,36.09179688,-78.92990112,anonymous,EN,Public Speaking,Promoter,10,,,,,,,,,,Male
+10/25/18 10:08,10/25/18 10:09,IP Address,198.86.29.23,100,19,TRUE,10/25/18 10:09,R_2WYK6SAGhqmWV8h,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Female
+10/25/18 10:10,10/25/18 10:10,IP Address,152.3.43.36,100,23,TRUE,10/25/18 10:10,R_eeXry5C4FM0F49H,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,6,Female
+10/25/18 10:12,10/25/18 10:15,IP Address,152.3.43.21,100,193,TRUE,10/25/18 10:15,R_1fl5SDgwXSkn9iH,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Promoter,10,,,,Male
+10/25/18 10:22,10/25/18 10:22,IP Address,188.154.146.184,100,17,TRUE,10/25/18 10:22,R_2SAk7rZGlMUjXlh,,,,,46.51600647,6.632797241,anonymous,EN,,,,,,,$15 per day ($1470),Promoter,10,,,,Female
+10/25/18 10:40,10/25/18 10:40,IP Address,152.3.43.20,100,18,TRUE,10/25/18 10:40,R_1eJgbfEXrjfFn3F,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Male
+10/25/18 10:44,10/25/18 10:44,IP Address,152.3.43.28,100,48,TRUE,10/25/18 10:44,R_27r2BdAdhJ3CKxP,,,,,35.9967041,-78.89659882,anonymous,EN,Public Speaking,Detractor,5,,,,,,,,,,Male
+10/25/18 10:49,10/25/18 10:50,IP Address,152.3.43.2,100,15,TRUE,10/25/18 10:50,R_3IRWnCUaOfRDgiN,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,7,,,,,,,Male
+10/25/18 11:07,10/25/18 11:08,IP Address,174.194.7.107,100,58,TRUE,10/25/18 11:08,R_DUD1ukUpyf9xhqF,,,,,35.31829834,-80.74759674,anonymous,EN,,,,,,,,,,$23 per day ($2254),Passive,7,Female
+10/25/18 11:08,10/25/18 11:09,IP Address,172.56.4.34,100,58,TRUE,10/25/18 11:09,R_3dM7gHzdjKbMt46,,,,,35.22709656,-80.8431015,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Female
+10/25/18 11:38,10/25/18 11:39,IP Address,198.86.29.24,100,33,TRUE,10/25/18 11:39,R_22J7k4rnmnWdInk,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,8,,,,Male
+10/25/18 11:56,10/25/18 11:56,IP Address,198.86.29.23,100,25,TRUE,10/25/18 11:56,R_2yfjqGiHwKczTcM,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$27 per day ($2646),Passive,7,Prefer not to identify
+10/25/18 12:37,10/25/18 12:38,IP Address,152.3.43.21,100,46,TRUE,10/25/18 12:38,R_2tm0RqshESVqdmi,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Passive,7,,,,,,,,,,Male
+10/25/18 12:55,10/25/18 12:55,IP Address,152.3.43.6,100,27,TRUE,10/25/18 12:55,R_Y46ufeoWQyJALdf,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/25/18 13:16,10/25/18 13:17,IP Address,45.37.78.24,100,22,TRUE,10/25/18 13:17,R_2vcw1OK8zhXtHMA,,,,,35.91119385,-78.9178009,anonymous,EN,,,,,,,,,,$29 per day ($2842),Passive,7,Female
+10/25/18 14:20,10/25/18 14:20,IP Address,152.3.43.21,100,21,TRUE,10/25/18 14:20,R_2tgodm4Rt56g0Ra,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Passive,7,,,,,,,,,,Male
+10/25/18 16:08,10/25/18 16:08,IP Address,152.3.43.20,100,12,TRUE,10/25/18 16:08,R_306TEYTf0pkT11h,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Female
+10/25/18 16:10,10/25/18 16:10,IP Address,198.86.29.23,100,37,TRUE,10/25/18 16:10,R_9MPFGtSnb68eGK5,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,5,Female
+10/25/18 16:11,10/25/18 16:12,IP Address,152.3.43.21,100,33,TRUE,10/25/18 16:12,R_2aRcGFAKSTwEW6k,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Shamanism in Society,Detractor,3,,,,,,,Male
+10/25/18 16:22,10/25/18 16:23,IP Address,152.3.43.20,100,10,TRUE,10/25/18 16:23,R_2t3t7HDMKVm4AOF,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Female
+10/25/18 16:57,10/25/18 16:57,IP Address,107.15.253.255,100,27,TRUE,10/25/18 16:57,R_3PMF4Q7i7QGvTkQ,,,,,36.02180481,-78.94779968,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
+10/25/18 17:33,10/25/18 17:34,IP Address,152.3.43.3,100,27,TRUE,10/25/18 17:34,R_3kLqzmiBURnlj70,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,10,,,,Male
+10/25/18 21:00,10/25/18 21:01,IP Address,152.3.43.2,100,15,TRUE,10/25/18 21:01,R_3LbYAxqFP2YUQ5k,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Female
+10/25/18 21:26,10/25/18 21:26,IP Address,152.3.43.134,100,19,TRUE,10/25/18 21:26,R_25GUgw7RwgtZff5,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,5,Female
+10/25/18 22:53,10/25/18 22:53,IP Address,174.194.29.4,100,31,TRUE,10/25/18 22:53,R_2rHL8y23hZNR60U,,,,,34.96809387,-81.04889679,anonymous,EN,Artificial Intelligence,Passive,7,,,,,,,,,,Female
+10/25/18 23:06,10/25/18 23:06,IP Address,108.83.204.148,100,27,TRUE,10/25/18 23:06,R_3Pzzl1Gi7sYiSbE,,,,,35.8480072,-78.63169861,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Female
+10/26/18 13:15,10/26/18 13:16,IP Address,152.3.43.36,100,38,TRUE,10/26/18 13:16,R_33Ci8xuSpFzVWKz,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Female
+10/27/18 6:23,10/27/18 6:23,IP Address,152.3.43.3,100,23,TRUE,10/27/18 6:23,R_3MKCC920Ql5SMRF,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,8,,,,Male
+10/27/18 12:16,10/27/18 12:16,IP Address,107.77.236.86,100,21,TRUE,10/27/18 12:16,R_3s4HPnGiMfM1Far,,,,,33.74899292,-84.38800049,anonymous,EN,,,,History of Biological Warfare,Detractor,4,,,,,,,Female
+10/27/18 12:20,10/27/18 12:20,IP Address,152.3.43.21,100,34,TRUE,10/27/18 12:20,R_tJqdnVx7743DlXb,,,,,35.9967041,-78.89659882,anonymous,EN,Buddhism and Sexuality ,Detractor,6,,,,,,,,,,Female
+10/27/18 12:20,10/27/18 12:20,IP Address,98.26.33.241,100,34,TRUE,10/27/18 12:20,R_2Bn57ohTFp9Benv,,,,,36.03829956,-78.87640381,anonymous,EN,,,,,,,,,,$29 per day ($2842),Detractor,6,Female
+10/27/18 12:24,10/27/18 12:25,IP Address,70.63.151.66,100,24,TRUE,10/27/18 12:25,R_zcKBUCVFscCD3Sp,,,,,35.852005,-78.68409729,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,3,,,,Female
+10/27/18 12:38,10/27/18 12:39,IP Address,107.77.234.128,100,48,TRUE,10/27/18 12:39,R_3Rsy1kACbavxwPi,,,,,33.74899292,-84.38800049,anonymous,EN,,,,,,,$15 per day ($1470),Detractor,5,,,,Female
+10/27/18 12:45,10/27/18 12:46,IP Address,198.86.29.23,100,57,TRUE,10/27/18 12:46,R_Dksk2mK1fJr79lf,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Detractor,5,,,,,,,,,,Female
+10/27/18 12:52,10/27/18 12:52,IP Address,152.3.43.2,100,28,TRUE,10/27/18 12:52,R_1lv3mRF4dGPdwDm,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,7,,,,,,,Female
+10/27/18 22:10,10/27/18 22:10,IP Address,152.3.43.3,100,29,TRUE,10/27/18 22:10,R_3O8ltyZhDzDRXPI,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Detractor,5,Female
+10/24/18 9:05,10/29/18 9:12,IP Address,152.3.43.21,100,432421,TRUE,10/29/18 9:12,R_3FX60uPxDP9ay7z,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,10,,,,Male
+10/29/18 9:12,10/29/18 9:12,IP Address,152.3.43.20,100,14,TRUE,10/29/18 9:12,R_12yeBKmFRF0dpb5,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Promoter,9,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,17,TRUE,10/29/18 9:13,R_qLea0aJhzu3aPlv,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,5,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,19,TRUE,10/29/18 9:13,R_2i9pIoBNEZK1TMJ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Passive,7,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.20,100,14,TRUE,10/29/18 9:13,R_PNDdrIZsEIRWeSl,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,10,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,23,TRUE,10/29/18 9:13,R_1N22I7ahh1iBueG,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.36,100,20,TRUE,10/29/18 9:13,R_3F3t4xjsFytenXR,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Promoter,10,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,25,TRUE,10/29/18 9:13,R_2EyPR0MbU4OLuRQ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,6,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,15,TRUE,10/29/18 9:13,R_1OxC2hGCYSsJQqA,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,15,TRUE,10/29/18 9:13,R_UaaiGw4fZVLHHmF,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,25,TRUE,10/29/18 9:13,R_DnMRPpU8D17k37P,,,,,35.9967041,-78.89659882,anonymous,EN,The Politics of Nuclear Energy,Detractor,6,,,,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,19,TRUE,10/29/18 9:13,R_xa41cUfOKRkMpyx,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,26,TRUE,10/29/18 9:13,R_0q79CRpBmlGeQFj,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,13,TRUE,10/29/18 9:13,R_3qx04ajM57lZPXH,,,,,35.9967041,-78.89659882,anonymous,EN,Public Speaking,Passive,8,,,,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,19,TRUE,10/29/18 9:13,R_1YUTuTpYM31MwI9,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Passive,7,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,26,TRUE,10/29/18 9:13,R_1IuSedy7zsChN8g,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$15 per day ($1470),Passive,7,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.28,100,8,TRUE,10/29/18 9:13,R_3qpWfqaBYWp3YwB,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,25,TRUE,10/29/18 9:13,R_1PaWeTCsB4z74XF,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Passive,8,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.24,100,19,TRUE,10/29/18 9:13,R_cMU2AKASgYuCPPb,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.28,100,29,TRUE,10/29/18 9:13,R_r0WV7koirZr1529,,,,,35.9967041,-78.89659882,anonymous,EN,AIDS and Emerging Diseases,Detractor,3,,,,,,,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,31,TRUE,10/29/18 9:13,R_1CyfIadrU50GXmN,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,6,,,,,,,,,,Male
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.21,100,14,TRUE,10/29/18 9:13,R_CdGed9xpGJZgeD7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Passive,8,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.20,100,35,TRUE,10/29/18 9:13,R_3JmIC2dSXJb6jKX,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Promoter,9,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,36,TRUE,10/29/18 9:13,R_1MXNjUHujyqUNVn,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$29 per day ($2842),Detractor,6,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.24,100,32,TRUE,10/29/18 9:13,R_2aBrIGrLPDykFod,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Shamanism in Society,Passive,7,,,,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.22,100,41,TRUE,10/29/18 9:13,R_8qtZwbGuQTgfiLf,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$23 per day ($2254),Detractor,6,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.20,100,38,TRUE,10/29/18 9:13,R_3fW60ZCVpLNHTwE,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,9,,,,,,,,,,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,198.86.29.23,100,18,TRUE,10/29/18 9:13,R_pnKKhXGYmz6pd61,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
+10/29/18 9:12,10/29/18 9:13,IP Address,198.86.29.23,100,40,TRUE,10/29/18 9:13,R_28P5cTlMdOtMhRQ,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$23 per day ($2254),Detractor,5,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.20,100,18,TRUE,10/29/18 9:13,R_2TXfQhL3N4QRePz,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Promoter,10,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.23,100,36,TRUE,10/29/18 9:13,R_3dWjqXRlxLoMhlq,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.21,100,42,TRUE,10/29/18 9:13,R_3qEDQsPWoTAbB4a,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Detractor,6,,,,Male
+10/29/18 9:12,10/29/18 9:13,IP Address,152.3.43.28,100,33,TRUE,10/29/18 9:13,R_1pm8VcyGVNCAQvu,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$19 per day ($1862),Detractor,4,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,198.86.29.23,100,26,TRUE,10/29/18 9:13,R_2yjcQA0AUWQoWyF,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Detractor,2,,,,,,,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.23,100,18,TRUE,10/29/18 9:13,R_30cwFRlJaFXlbv8,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$19 per day ($1862),Detractor,6,Male
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.21,100,21,TRUE,10/29/18 9:13,R_1cSO0gUO3Gtj4c7,,,,,35.9967041,-78.89659882,anonymous,EN,Asian Americans in Higher Education,Passive,8,,,,,,,,,,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.21,100,14,TRUE,10/29/18 9:13,R_cNiUoB2g5k4C8XD,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Male
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.28,100,19,TRUE,10/29/18 9:13,R_ex1Bs2dHs549ysV,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$31 per day ($3038),Promoter,9,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.36,100,22,TRUE,10/29/18 9:13,R_yTJ9NIIs2ht2Pip,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Detractor,6,,,,,,,,,,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,198.86.29.23,100,29,TRUE,10/29/18 9:13,R_1MSUE7mzZAES61D,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Passive,8,,,,,,,,,,Female
+10/29/18 9:13,10/29/18 9:13,IP Address,152.3.43.20,100,26,TRUE,10/29/18 9:13,R_2PndKAriFxyfEGP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Male
+10/29/18 9:13,10/29/18 9:14,IP Address,152.3.43.36,100,32,TRUE,10/29/18 9:14,R_NVFbfSxYuluJ1ND,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,7,,,,Male
+10/29/18 9:13,10/29/18 9:14,IP Address,152.3.43.20,100,28,TRUE,10/29/18 9:14,R_2bUWHWGXrLzIugT,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Passive,8,Female
+10/29/18 9:34,10/29/18 9:34,IP Address,152.3.43.21,100,30,TRUE,10/29/18 9:34,R_2RRmkTiCM5Hl8Ln,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,7,,,,Male
+10/29/18 9:43,10/29/18 9:44,IP Address,198.86.29.23,100,24,TRUE,10/29/18 9:44,R_27IDN1ppCZgNMXD,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,3,,,,,,,,,,Female
+10/29/18 9:44,10/29/18 9:44,IP Address,152.3.43.2,100,28,TRUE,10/29/18 9:44,R_22YstB9kggStybt,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$15 per day ($1470),Detractor,6,Female
+10/29/18 15:16,10/29/18 15:16,IP Address,152.3.43.3,100,27,TRUE,10/29/18 15:16,R_1CdakUq25NLQuhR,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Promoter,10,,,,,,,,,,Male
+10/29/18 19:42,10/29/18 19:43,IP Address,174.109.85.121,100,14,TRUE,10/29/18 19:43,R_XMxhy6SZJcwm33b,,,,,36.02180481,-78.94779968,anonymous,EN,,,,,,,$35 per day ($3430),Promoter,10,,,,Female
+10/29/18 19:46,10/29/18 19:47,IP Address,152.3.43.23,100,16,TRUE,10/29/18 19:47,R_31z7kXzvkiNn5g1,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$13 per day ($1274),Promoter,10,Female
+10/29/18 19:46,10/29/18 19:47,IP Address,152.3.43.18,100,34,TRUE,10/29/18 19:47,R_xxyPNwQhKb7ULyp,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,6,,,,,,,Female
+10/29/18 19:50,10/29/18 19:51,IP Address,152.3.43.28,100,28,TRUE,10/29/18 19:51,R_qV3aIUmZjfvSQAV,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Passive,7,,,,Female
+10/29/18 19:51,10/29/18 19:51,IP Address,152.3.43.3,100,26,TRUE,10/29/18 19:51,R_2bPHKJK4LlslbKe,,,,,35.9967041,-78.89659882,anonymous,EN,History of Biological Warfare,Detractor,4,,,,,,,,,,Female
+10/29/18 19:56,10/29/18 19:57,IP Address,174.194.34.81,100,24,TRUE,10/29/18 19:57,R_cHeMa2uNmJ9vULD,,,,,35.17959595,-80.85590363,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
+10/29/18 20:07,10/29/18 20:08,IP Address,152.3.43.3,100,13,TRUE,10/29/18 20:08,R_1PdwLR120WB3lc7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Female
+10/29/18 20:09,10/29/18 20:10,IP Address,152.3.43.3,100,41,TRUE,10/29/18 20:10,R_3imNg2O6wbtWOIP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,6,Female
+10/29/18 20:10,10/29/18 20:15,IP Address,198.86.29.23,100,290,TRUE,10/29/18 20:15,R_1cY9FzukfRvHncC,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Detractor,4,,,,,,,,,,Female
+10/29/18 20:30,10/29/18 20:30,IP Address,152.3.43.2,100,21,TRUE,10/29/18 20:30,R_1OrHZOCrcVL3DdE,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Male
+10/29/18 20:40,10/29/18 20:41,IP Address,152.3.43.3,100,31,TRUE,10/29/18 20:41,R_1NtBrSQnAkeWe8A,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,3,,,,,,,Female
+10/29/18 21:16,10/29/18 21:17,IP Address,198.86.29.24,100,83,TRUE,10/29/18 21:17,R_XRsZHWWnpqc3Oil,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$33 per day ($3234),Detractor,3,Female
+10/29/18 21:28,10/29/18 21:29,IP Address,152.3.43.3,100,24,TRUE,10/29/18 21:29,R_1Csa5W1TcoAKGa0,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
+10/29/18 22:11,10/29/18 22:11,IP Address,152.3.43.3,100,16,TRUE,10/29/18 22:11,R_XtB9z6OoclzqZzP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Passive,8,,,,,,,Female
+10/29/18 22:18,10/29/18 22:19,IP Address,152.3.43.2,100,42,TRUE,10/29/18 22:19,R_3qQlRWZV8kbYTxl,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$21 per day ($2058),Passive,8,Female
+10/29/18 22:20,10/29/18 22:21,IP Address,152.3.222.16,100,65,TRUE,10/29/18 22:21,R_2qkGkwC2MXU0n2X,,,,,35.9967041,-78.89659882,anonymous,EN,The Politics of Nuclear Energy,Detractor,3,,,,,,,,,,Female
+10/29/18 23:29,10/29/18 23:29,IP Address,152.3.43.3,100,43,TRUE,10/29/18 23:29,R_3k4fmhADNFcW9zP,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$25 per day ($2450),Detractor,6,Female
+10/30/18 0:29,10/30/18 0:30,IP Address,152.3.43.3,100,30,TRUE,10/30/18 0:30,R_1imVUsh9V15qtFA,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,6,,,,,,,Female
+10/30/18 0:37,10/30/18 0:37,IP Address,152.3.43.23,100,25,TRUE,10/30/18 0:37,R_1FlwJMKdbHabkJD,,,,,35.9967041,-78.89659882,anonymous,EN,Artificial Intelligence,Passive,7,,,,,,,,,,Female
+10/30/18 4:35,10/30/18 4:35,IP Address,198.86.29.23,100,28,TRUE,10/30/18 4:35,R_BG3EXgA7ZsubgKR,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,,,,$33 per day ($3234),Detractor,6,Female
+10/30/18 8:11,10/30/18 8:12,IP Address,198.86.29.23,100,21,TRUE,10/30/18 8:12,R_3R32IY2a3HCD3KV,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$35 per day ($3430),Passive,7,,,,Female
+10/30/18 10:10,10/30/18 10:10,IP Address,98.26.38.129,100,43,TRUE,10/30/18 10:10,R_3s4zehiVkiR8MnS,,,,,36.03829956,-78.87640381,anonymous,EN,"Money, Sex, and Power ",Passive,7,,,,,,,,,,Female
+10/30/18 12:21,10/30/18 12:22,IP Address,152.3.43.2,100,18,TRUE,10/30/18 12:22,R_1qaGUylpSKyVEsi,,,,,35.9967041,-78.89659882,anonymous,EN,,,,History of Biological Warfare,Detractor,5,,,,,,,Male
+10/30/18 17:17,10/30/18 17:17,IP Address,198.86.29.24,100,11,TRUE,10/30/18 17:17,R_rqpxXf2CT8sKMDv,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Promoter,9,,,,Male
+10/30/18 20:03,10/30/18 20:04,IP Address,107.77.233.234,100,36,TRUE,10/30/18 20:04,R_1QJDT6AruKQodBE,,,,,33.74899292,-84.38800049,anonymous,EN,,,,,,,,,,$17 per day ($1666),Passive,8,Female
+10/30/18 22:50,10/30/18 22:52,IP Address,152.3.43.6,100,65,TRUE,10/30/18 22:52,R_3JC5U7eJ3sskSY3,,,,,35.9967041,-78.89659882,anonymous,EN,Asian Americans in Higher Education,Passive,8,,,,,,,,,,Female
+10/30/18 23:20,10/30/18 23:20,IP Address,174.194.23.34,100,21,TRUE,10/30/18 23:20,R_2bT5CK8THISSykN,,,,,35.11489868,-80.70500183,anonymous,EN,,,,History of Biological Warfare,Detractor,6,,,,,,,Female
+10/30/18 23:21,10/30/18 23:22,IP Address,152.3.43.6,100,24,TRUE,10/30/18 23:22,R_1QgUocRr9traIzC,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$15 per day ($1470),Passive,7,,,,Female
+10/31/18 9:13,10/31/18 9:13,IP Address,152.3.43.20,100,16,TRUE,10/31/18 9:13,R_2S1qTCwQesZvl7j,,,,,35.9967041,-78.89659882,anonymous,EN,"Money, Sex, and Power ",Detractor,2,,,,,,,,,,Male
+10/31/18 9:13,10/31/18 9:13,IP Address,152.3.43.20,100,13,TRUE,10/31/18 9:13,R_5mVU62xdKUPXvvb,,,,,35.9967041,-78.89659882,anonymous,EN,,,,Public Speaking,Promoter,10,,,,,,,Female
+10/31/18 9:15,10/31/18 9:16,IP Address,152.3.43.28,100,31,TRUE,10/31/18 9:16,R_2YnSVbzdRmidUT7,,,,,35.9967041,-78.89659882,anonymous,EN,,,,,,,$25 per day ($2450),Detractor,6,,,,Female
