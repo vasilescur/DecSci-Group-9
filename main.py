@@ -50,9 +50,9 @@ comb_2_t, comb_2_p = stats.ttest_ind(short_all, long_all)
 # ===== Report Results ===== #
 
 # Display statistical test results
-print('Meals     T = ' + str(meals_t) + ', P = ' + str(meals_p))
-print('Classes:  T = ' + str(class_p) + ', P = ' + str(class_p))
-print('Combined: T = ' + str(combined_t) + ', P = ' + str(combined_p))
+print('Meals:     T = ' + str(meals_t) + ', P = ' + str(meals_p))
+print('Classes:   T = ' + str(class_p) + ', P = ' + str(class_p))
+print('Combined:  T = ' + str(combined_t) + ', P = ' + str(combined_p))
 print('Combined2: T = ' + str(comb_2_t) + ', P = ' + str(comb_2_p))
 
 
