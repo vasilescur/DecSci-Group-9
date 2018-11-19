@@ -49,6 +49,15 @@ long_all = pd.concat([class_long, meal_long], ignore_index=True)
 comb_2_t, comb_2_p = stats.ttest_ind(short_all, long_all)
 ```
 
+The results of these T-tests were:
+
+```
+Meals     T = 1.7696545138428823, P = 0.07938985600664483
+Classes:  T = 0.24361622467144387, P = 0.24361622467144387
+Combined: T = -0.9312622018447003, P = 0.3526736589969208
+Combined2: T = 2.0697634338884923, P = 0.03956754951327441
+```
+
 ## Results Visualization
 
 The `pyplot` package from `matplotlib` was used to create a full visualization of the data consisting of a series of histograms outlining the preference reported by users for each category of question.
