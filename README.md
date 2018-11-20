@@ -89,6 +89,13 @@ This resulted in the following visualization:
 ![results-all](https://user-images.githubusercontent.com/10100323/48680965-7879a200-eb6d-11e8-83e7-04011268514a.png)
 
 
+## Website
+
+A website view of this readme is hosted at [decsci.raduvasilescu.com](http://decsci.raduvasilescu.com).
+
+This host is specified in the `CNAME` file in this repository, and the main HTML page template has been adjusted
+from the default Jekyll theme and can be found in `_layouts/default.html`.
+
 ## Project Contributors
 
 - Radu Vasilescu
