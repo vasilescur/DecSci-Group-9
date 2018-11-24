@@ -21,6 +21,8 @@ class_long = data['class_long'].dropna()
 
 ## Statistical Analysis
 
+### T-Tests
+
 Four T-tests were performed on the data using the `stats` package from `scipy`.
 
 Two of these tests were aggregate/combined tests, and so the relevant data were combined into aggregate `DataFrame` objects and then the T-tests were run on those aggregate objects.
@@ -57,6 +59,8 @@ Classes:   T = 0.24361622467144387, P = 0.24361622467144387
 Combined:  T = -0.9312622018447003, P = 0.3526736589969208
 Combined2: T = 2.0697634338884923,  P = 0.03956754951327441
 ```
+
+### 2x2 ANOVA
 
 In addition, the `statsmodels` package was used to perform a 2-way ANOVA. After the satisfaction values
 were aggregated into lists by category, the following code was used for the ANOVA:
