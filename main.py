@@ -6,7 +6,15 @@ Date:   2018-11-07
 """
 
 import pandas as pd
+import numpy as np
+
 from scipy import stats
+
+# For 2-way ANOVA
+import statsmodels
+import statsmodels.api as sm
+from statsmodels.formula.api import ols
+
 import matplotlib.pyplot as plt
 
 # ===== Data Ingest ===== #
@@ -46,6 +54,52 @@ long_all = pd.concat([class_long, meal_long], ignore_index=True)
 # Then, run the test
 comb_2_t, comb_2_p = stats.ttest_ind(short_all, long_all)
 
+# 2-way ANOVA
+
+# Make a new, aggregate DataFrame with all satisfaction values, question 
+# type, and answer choice count
+aggregate_arr = data.to_dict()
+
+# print(aggregate_arr)
+
+satisfactions = None
+types = []
+lengths = []
+
+satisfactions = pd.concat([short_all, long_all], ignore_index=True).values.tolist()
+# print(satisfactions)
+
+# Classes: 0 | Meal Plans: 1
+# Short: 0  | Long: 1
+
+for _ in range(class_short.size):
+    types.append(0)
+    lengths.append(0)
+
+for _ in range(meal_short.size):
+    types.append(1)
+    lengths.append(0)
+
+for _ in range(class_long.size):
+    types.append(0)
+    lengths.append(1)
+
+for _ in range(meal_long.size):
+    types.append(1)
+    lengths.append(1)
+
+aggregate = pd.DataFrame({
+    'Satisfaction': satisfactions,
+    'Type': types,
+    'Length': lengths
+})
+
+print(aggregate.head())
+
+formula = 'Satisfaction ~ C(Type) + C(Length) + C(Type):C(Length)'
+model = ols(formula, aggregate).fit()
+aov_table = statsmodels.stats.anova.anova_lm(model, typ=1)
+
 
 # ===== Report Results ===== #
 
@@ -55,6 +109,7 @@ print('Classes:   T = ' + str(class_p) + ', P = ' + str(class_p))
 print('Combined:  T = ' + str(combined_t) + ', P = ' + str(combined_p))
 print('Combined2: T = ' + str(comb_2_t) + ', P = ' + str(comb_2_p))
 
+print(aov_table)    # ANOVA results
 
 # --- Plot results graphically ---
 
