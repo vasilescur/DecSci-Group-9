@@ -58,6 +58,25 @@ Combined:  T = -0.9312622018447003, P = 0.3526736589969208
 Combined2: T = 2.0697634338884923,  P = 0.03956754951327441
 ```
 
+In addition, the `statsmodels` package was used to perform a 2-way ANOVA. After the satisfaction values
+were aggregated into lists by category, the following code was used for the ANOVA:
+
+```python
+formula = 'Satisfaction ~ C(Type) + C(Length) + C(Type):C(Length)'
+model = ols(formula, aggregate).fit()
+aov_table = statsmodels.stats.anova.anova_lm(model, typ=1)
+```
+
+The results of the ANOVA were:
+
+```
+                      df      sum_sq    mean_sq         F    PR(>F)
+C(Type)              1.0    3.582745   3.582745  0.875582  0.350383
+C(Length)            1.0   17.122664  17.122664  4.184584  0.041916
+C(Type):C(Length)    1.0    0.300051   0.300051  0.073329  0.786790
+Residual           233.0  953.399603   4.091844       NaN       NaN
+```
+
 ## Results Visualization
 
 The `pyplot` package from `matplotlib` was used to create a full visualization of the data consisting of a series of histograms outlining the preference reported by users for each category of question.
