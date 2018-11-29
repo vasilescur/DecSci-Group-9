@@ -23,6 +23,9 @@ class_long = data['class_long'].dropna()
 
 ### T-Tests
 
+**NOTE**: After further examination, the T-tests have been deemed as unnecesary and replaced with a 2x2 ANOVA (see below).
+
+
 Four T-tests were performed on the data using the `stats` package from `scipy`.
 
 Two of these tests were aggregate/combined tests, and so the relevant data were combined into aggregate `DataFrame` objects and then the T-tests were run on those aggregate objects.
@@ -110,6 +113,20 @@ plt.show()
 This resulted in the following visualization:
 
 ![results-all](https://user-images.githubusercontent.com/10100323/48680965-7879a200-eb6d-11e8-83e7-04011268514a.png)
+
+In addition, [Exploratory.io](https://exploratory.io) was used to create an additional data visualization. First, we used Excel to coalesce the data into the following format:
+
+| Type | Length | Response |
+| ---- | ------ | -------- |
+| class | short | 7 |
+| meal | short | 7 |
+| class | short | 6 |
+| class | long | 10 |
+| ... | 
+
+Then, the following box-and-whiskers plots were created from the newly formatted data:
+
+![box2](https://user-images.githubusercontent.com/10100323/49200394-91066b00-f36a-11e8-9bdd-b3f2b9e91c96.png)
 
 
 ## Website
