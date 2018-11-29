@@ -126,7 +126,7 @@ In addition, [Exploratory.io](https://exploratory.io) was used to create an addi
 
 Then, the following box-and-whiskers plots were created from the newly formatted data:
 
-![box2](https://user-images.githubusercontent.com/10100323/49200394-91066b00-f36a-11e8-9bdd-b3f2b9e91c96.png)
+<img alt="box-plot" height="500" src="https://user-images.githubusercontent.com/10100323/49200394-91066b00-f36a-11e8-9bdd-b3f2b9e91c96.png">
 
 
 ## Website
