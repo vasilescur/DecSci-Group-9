@@ -33,18 +33,18 @@ class_long = data['class_long'].dropna()
 # ===== Statistical Tests ===== #
 
 # Run T test for meals
-meals_t, meals_p = stats.ttest_ind(meal_short, meal_long)
+# meals_t, meals_p = stats.ttest_ind(meal_short, meal_long)
 
 # Run T test for classes
-class_t, class_p = stats.ttest_ind(class_short, class_long)
+# class_t, class_p = stats.ttest_ind(class_short, class_long)
 
 # Run T test across groups:
 # First, combine classes and combine meals
-class_all = pd.concat([class_short, class_long], ignore_index=True)
-meal_all = pd.concat([meal_short, meal_long], ignore_index=True)
+# class_all = pd.concat([class_short, class_long], ignore_index=True)
+# meal_all = pd.concat([meal_short, meal_long], ignore_index=True)
 
 # Then, run the test
-combined_t, combined_p = stats.ttest_ind(class_all, meal_all)
+# combined_t, combined_p = stats.ttest_ind(class_all, meal_all)
 
 # Run T test across all shorts and all longs:
 # First, combine shorts and combine longs
@@ -52,7 +52,7 @@ short_all = pd.concat([class_short, meal_short], ignore_index=True)
 long_all = pd.concat([class_long, meal_long], ignore_index=True)
 
 # Then, run the test
-comb_2_t, comb_2_p = stats.ttest_ind(short_all, long_all)
+# comb_2_t, comb_2_p = stats.ttest_ind(short_all, long_all)
 
 # 2-way ANOVA
 
