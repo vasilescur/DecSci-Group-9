@@ -1,6 +1,6 @@
 # Decision Science 101 Final Project - Group 9
 
-Analysis of the effect of pre-existing preferences on the choice overload effect.
+Analysis of the effect of multi/single-attribute decisions on the choice overload effect.
 
 This repository contains the code used to analyze data collected from a Qualtrics survey.
 
@@ -44,7 +44,25 @@ Residual           233.0  953.399603   4.091844       NaN       NaN
 
 ## Results Visualization
 
-The `pyplot` package from `matplotlib` was used to create a full visualization of the data consisting of a series of histograms outlining the preference reported by users for each category of question.
+### Box & Whiskers Plot
+
+[Exploratory.io](https://exploratory.io) was used to create a data visualization. First, we used Excel to coalesce the data into the following format:
+
+| Type | Length | Response |
+| ---- | ------ | -------- |
+| class | short | 7 |
+| meal | short | 7 |
+| class | short | 6 |
+| class | long | 10 |
+| ... | 
+
+Then, the following box-and-whiskers plots were created from the newly formatted data:
+
+<img alt="box-plot" height="500" src="https://user-images.githubusercontent.com/10100323/49200394-91066b00-f36a-11e8-9bdd-b3f2b9e91c96.png">
+
+### Histogram Summary
+
+In addition, the `pyplot` package from `matplotlib` was used to create a full visualization of the data consisting of a series of histograms outlining the preference reported by users for each category of question.
 
 Graphs were creates as follows:
 
@@ -71,20 +89,6 @@ plt.show()
 This resulted in the following visualization:
 
 ![results-all](https://user-images.githubusercontent.com/10100323/48680965-7879a200-eb6d-11e8-83e7-04011268514a.png)
-
-In addition, [Exploratory.io](https://exploratory.io) was used to create an additional data visualization. First, we used Excel to coalesce the data into the following format:
-
-| Type | Length | Response |
-| ---- | ------ | -------- |
-| class | short | 7 |
-| meal | short | 7 |
-| class | short | 6 |
-| class | long | 10 |
-| ... | 
-
-Then, the following box-and-whiskers plots were created from the newly formatted data:
-
-<img alt="box-plot" height="500" src="https://user-images.githubusercontent.com/10100323/49200394-91066b00-f36a-11e8-9bdd-b3f2b9e91c96.png">
 
 
 ## Website
