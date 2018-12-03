@@ -23,7 +23,7 @@ class_long = data['class_long'].dropna()
 
 ### 2x2 ANOVA
 
-In addition, the `statsmodels` package was used to perform a 2-way ANOVA. After the satisfaction values
+The `statsmodels` package was used to perform a 2-way ANOVA. After the satisfaction values
 were aggregated into lists by category, the following code was used for the ANOVA:
 
 ```python
