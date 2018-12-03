@@ -104,10 +104,10 @@ aov_table = statsmodels.stats.anova.anova_lm(model, typ=1)
 # ===== Report Results ===== #
 
 # Display statistical test results
-print('Meals:     T = ' + str(meals_t) + ', P = ' + str(meals_p))
-print('Classes:   T = ' + str(class_p) + ', P = ' + str(class_p))
-print('Combined:  T = ' + str(combined_t) + ', P = ' + str(combined_p))
-print('Combined2: T = ' + str(comb_2_t) + ', P = ' + str(comb_2_p))
+# print('Meals:     T = ' + str(meals_t) + ', P = ' + str(meals_p))
+# print('Classes:   T = ' + str(class_p) + ', P = ' + str(class_p))
+# print('Combined:  T = ' + str(combined_t) + ', P = ' + str(combined_p))
+# print('Combined2: T = ' + str(comb_2_t) + ', P = ' + str(comb_2_p))
 
 print(aov_table)    # ANOVA results
 
@@ -115,101 +115,101 @@ print(aov_table)    # ANOVA results
 
 # Meals
 
-plt.subplot(4, 2, 1)    # 1st plot
-plt.title('Meals (short)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    meal_short,
-    bins=range(1, 11), # 1, 2, ..., 10
-    rwidth=0.75,
-    label='Meals (short)'
-)
+# plt.subplot(4, 2, 1)    # 1st plot
+# plt.title('Meals (short)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     meal_short,
+#     bins=range(1, 11), # 1, 2, ..., 10
+#     rwidth=0.75,
+#     label='Meals (short)'
+# )
 
-plt.subplot(4, 2, 2)    # Go to the 2nd subplot
-plt.title('Meals (long)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    meal_long,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Meals (long)'
-)
+# plt.subplot(4, 2, 2)    # Go to the 2nd subplot
+# plt.title('Meals (long)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     meal_long,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Meals (long)'
+# )
 
-# Classes
+# # Classes
 
-plt.subplot(4, 2, 3)
-plt.title('Classes (short)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    class_short,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Classes (short)'
-)
+# plt.subplot(4, 2, 3)
+# plt.title('Classes (short)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     class_short,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Classes (short)'
+# )
 
-plt.subplot(4, 2, 4)
-plt.title('Classes (long)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    class_long,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Classes (long)'
-)
+# plt.subplot(4, 2, 4)
+# plt.title('Classes (long)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     class_long,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Classes (long)'
+# )
 
-# Combined
+# # Combined
 
-plt.subplot(4, 2, 5)
-plt.title('Classes (all)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    class_all,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Classes (all)'
-)
+# plt.subplot(4, 2, 5)
+# plt.title('Classes (all)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     class_all,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Classes (all)'
+# )
 
-plt.subplot(4, 2, 6)
-plt.title('Meals (all)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    meal_all,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Meals (all)'
-)
+# plt.subplot(4, 2, 6)
+# plt.title('Meals (all)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     meal_all,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Meals (all)'
+# )
 
-# Combined 2
+# # Combined 2
 
-plt.subplot(4, 2, 7)
-plt.title('Short (all)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    short_all,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Short (all)'
-)
+# plt.subplot(4, 2, 7)
+# plt.title('Short (all)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     short_all,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Short (all)'
+# )
 
-plt.subplot(4, 2, 8)
-plt.title('Long (all)')
-plt.xlabel('Satisfaction Level')
-plt.ylabel('Responses')
-plt.hist(
-    long_all,
-    bins=range(1, 11),
-    rwidth=0.75,
-    label='Longs (all)'
-)
+# plt.subplot(4, 2, 8)
+# plt.title('Long (all)')
+# plt.xlabel('Satisfaction Level')
+# plt.ylabel('Responses')
+# plt.hist(
+#     long_all,
+#     bins=range(1, 11),
+#     rwidth=0.75,
+#     label='Longs (all)'
+# )
 
-# Fix overlapping in layout, and then display the plots
-plt.tight_layout()
-plt.gcf().canvas.set_window_title('Results')    # Window title
-plt.show()
+# # Fix overlapping in layout, and then display the plots
+# plt.tight_layout()
+# plt.gcf().canvas.set_window_title('Results')    # Window title
+# plt.show()
